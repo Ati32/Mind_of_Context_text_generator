@@ -1,0 +1,1 @@
+# Mind_of_Context_Hungarian_text_generator_based_on_Transformer_machine_learning_model
