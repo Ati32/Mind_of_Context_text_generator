@@ -7,8 +7,11 @@ contributors: Attila Ragács, Szilard Novoth, Vanda Halasi, Zsombor Pancsics
 The repository contains 3 main functions: 
 
 I. the preparation of the input data
+
 II. the the word2vec NN model to fit the prepared data to the LSTM network
+
 III. Transformers (huBert) model transfer-learning and fine-tunning which will be able to generate sentences using the prepared and processed input
+
 IV. text generation algorythm 
 
 
